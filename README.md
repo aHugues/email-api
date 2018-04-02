@@ -1,0 +1,1 @@
+# Simple API to handle sending emails
